@@ -24,6 +24,7 @@ The application will start, and you can access it at `http://localhost:8080`. Th
 ## Screenshots
 
 Here are some screenshots of the RabbitMQ Message Verification Tool in action:
+
 **Producer Sending Messages:**
 
 <kbd>![Producer](images/producer.png)</kbd>
